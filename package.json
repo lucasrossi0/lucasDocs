@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "fs": "^0.0.1-security",
+    "notion-to-md": "^3.1.4"
+  }
+}
