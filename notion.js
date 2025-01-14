@@ -26,5 +26,5 @@ async function fetchNotionPageAsMarkdown(pageId) {
   }
 }
 
-const pageId = '17a25c523580806dbf91c676309f3ca9';
-fetchNotionPageAsMarkdown(pageId);
+var argsIdPage = process.argv.splice(2);
+fetchNotionPageAsMarkdown(argsIdPage);
