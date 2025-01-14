@@ -11,13 +11,20 @@
     "href": "index.html",
     "title": "wiki",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. {{}}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites. Go to Soc page: Soc"
   },
   {
-    "objectID": "file0.html",
-    "href": "file0.html",
-    "title": "wiki",
+    "objectID": "pages/file8.html",
+    "href": "pages/file8.html",
+    "title": "file8",
     "section": "",
-    "text": "Como trabajar con dos ramas al mismo tiempo con back y front desplegados?\nProbar utilizar fetch para leer la api rest del spring.\nAvanzar mooc part 9.\nMejorar y pensar en ideas sobre las 3: AutoEscuela, BuscaFiestas, Vecinos.\nComo crear un sistema que pueda escribirlo aqui en Notion y poder pasarlo a proyectos en quarto. https://github.com/quarto-dev/quarto-cli/discussions/6265\nhttps://github.com/mcanouil https://mickael.canouil.fr/blog https://github.com/mcanouil/mickael.canouil.fr?tab=readme-ov-file\nFica bem facil de pegar dados JSON de uma API Rest, usando axios ou fetch diretamente com Js.\nAo usar axios nao podemos nos esquecer de importar a biblioteca axios e instalar ela diretamente no terminal tambem.\nUsando axios.get();\n// Using axios: *Previously install axios dependecy and import it\nimport axios from 'axios';\nconst response = await axios.get(\"URL\");\n// Using fetch in JS\nconst response = await fetch('URL');\nconst json = await response.json();"
+    "text": "Como trabajar con dos ramas al mismo tiempo con back y front desplegados? - git worktrees; git stash; linux pipes\nProbar utilizar fetch para leer la api rest del spring. - mas sencillo casi\nAvanzar mooc part 9.\nMejorar y pensar en ideas sobre las 3: AutoEscuela, BuscaFiestas, Vecinos.\nComo crear un sistema que pueda escribirlo aqui en Notion y poder pasarlo a proyectos en quarto. - esta hecho\nhttps://github.com/quarto-dev/quarto-cli/discussions/6265\nhttps://github.com/mcanouil\nhttps://mickael.canouil.fr/blog\nhttps://github.com/mcanouil/mickael.canouil.fr?tab=readme-ov-file\nhow to create a new branch that has the content of other two branches?\nFica bem facil de pegar dados JSON de uma API Rest, usando axios ou fetch diretamente com Js.\nAo usar axios nao podemos nos esquecer de importar a biblioteca axios e instalar ela diretamente no terminal tambem.\nUsando axios.get();\nPROBANDO EL BASH CON ARGUMENTOS;\nNUEVAMENTE PROBANDO;"
+  },
+  {
+    "objectID": "pages/file8.html#javascript---axios-vs-fetch",
+    "href": "pages/file8.html#javascript---axios-vs-fetch",
+    "title": "file8",
+    "section": "JavaScript - axios vs fetch",
+    "text": "JavaScript - axios vs fetch\ncual es mejor."
   }
 ]
