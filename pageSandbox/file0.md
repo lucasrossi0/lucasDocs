@@ -1,9 +1,3 @@
----
-title: "File0"
-format: html
-editor: visual
----
-
 
 Como trabajar con dos ramas al mismo tiempo con back y front desplegados? - git worktrees; git stash; linux pipes
 
@@ -35,6 +29,12 @@ Como crear un sistema que pueda escribirlo aqui en Notion y poder pasarlo a proy
 how to create a new branch that has the content of other two branches?
 
 
+describing the ui. pureza…
+
+
+**Number Recognition with Python -** [https://medium.com/@borandabak/number-recognition-with-python-939cd8427a43](https://medium.com/@borandabak/number-recognition-with-python-939cd8427a43)
+
+
 Fica bem facil de pegar dados JSON de uma API Rest, usando axios ou fetch diretamente com Js.
 
 
@@ -60,12 +60,17 @@ PROBANDO EL BASH CON ARGUMENTOS;
 NUEVAMENTE PROBANDO;
 
 
+## JavaScript - axios vs fetch
+
+cual es mejor.
 
 
-## Related Pages
+## Github - workingtrees
 
-[JavaScript - axios vs fetch](./javascript-axios-vs-fetch.qmd)
+Aqui hablare de workingtrees.
 
-[Github - workingtrees](./github-workingtrees.qmd)
 
-[Que es github](./que-es-github.qmd)
+## Que es github
+
+Github es…
+

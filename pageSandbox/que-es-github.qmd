@@ -1,7 +1,6 @@
 ---
 title: "Que es github"
 format: html
-editor: visual
 ---
 
 Github es…

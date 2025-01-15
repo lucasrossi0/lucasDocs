@@ -1,7 +1,6 @@
 ---
 title: "Github - workingtrees"
 format: html
-editor: visual
 ---
 
 Aqui hablare de workingtrees.

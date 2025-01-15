@@ -29,7 +29,6 @@ function createYamlFrontMatter(filename) {
     return `---
 title: "${title}"
 format: html
-editor: visual
 ---
 
 `;

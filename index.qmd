@@ -5,4 +5,7 @@ title: "wiki"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-Go to Soc page: [Soc](./pages/file8.qmd)
+Go to Soc page: [Soc](./pageSandbox/file0.qmd)
+Go to what is github: [Github](./pageSandbox/que-es-github.qmd)
+Go to Javascript: [Javascript](./pageSandbox/javascript-axios-vs-fetch.qmd)
+Go to what is github trees: [GithubWorkingtrees](./pageSandbox/github-workingtrees.qmd)

@@ -36,7 +36,6 @@ function createYamlFrontMatter(title) {
   return `---
 title: "${title}"
 format: html
-editor: visual
 ---
 
 `;
